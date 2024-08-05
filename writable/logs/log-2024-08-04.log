@@ -1,0 +1,11 @@
+CRITICAL - 2024-08-04 21:42:30 --> foreach() argument must be of type array|object, null given
+#0 C:\xampp3\htdocs\restoran_unikom\app\Views\pelaporan\v_pelaporan.php(55): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argum...', 'C:\\xampp3\\htdoc...', 55)
+#1 C:\xampp3\htdocs\restoran_unikom\vendor\codeigniter4\framework\system\View\View.php(230): include('C:\\xampp3\\htdoc...')
+#2 C:\xampp3\htdocs\restoran_unikom\vendor\codeigniter4\framework\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp3\htdocs\restoran_unikom\vendor\codeigniter4\framework\system\Common.php(1271): CodeIgniter\View\View->render('pelaporan/v_pel...', Array, true)
+#4 C:\xampp3\htdocs\restoran_unikom\app\Controllers\Pelaporan.php(60): view('pelaporan/v_pel...', Array)
+#5 C:\xampp3\htdocs\restoran_unikom\vendor\codeigniter4\framework\system\CodeIgniter.php(869): App\Controllers\Pelaporan->index()
+#6 C:\xampp3\htdocs\restoran_unikom\vendor\codeigniter4\framework\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pelaporan))
+#7 C:\xampp3\htdocs\restoran_unikom\vendor\codeigniter4\framework\system\CodeIgniter.php(322): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp3\htdocs\restoran_unikom\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
