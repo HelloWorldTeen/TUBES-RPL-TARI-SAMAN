@@ -36,5 +36,5 @@ composer install
 3. **Run the PHP Spark development server with Terminal VSCODE:**
    ```bash
    php spark serve
-4. **Log in according to the first step:**
+4. **Log in according to the first step**
 
