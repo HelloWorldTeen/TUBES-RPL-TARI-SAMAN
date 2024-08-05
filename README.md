@@ -18,7 +18,6 @@ Make sure to change these default credentials after the initial login to ensure 
 Make sure you have the following installed on your system:
 - PHP (version 8.2 or later)
 - Composer (latest version)
-- CodeIgniter 4 (if not already included in your project)
 
 Install dependencies using Composer:
 composer install
