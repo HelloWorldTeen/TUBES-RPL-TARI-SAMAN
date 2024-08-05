@@ -32,8 +32,10 @@ composer install
    ```bash
    git clone https://github.com/yourusername/tubes-rpl-tari-saman.git
 2. **Navigate to the project directory:**:
+   ```bash
    cd tubes-rpl-tari-saman
-3. **Run the PHP Spark development server with Terminal VSCODE:**:
+4. **Run the PHP Spark development server with Terminal VSCODE:**:
+   ```bash
    php spark serve
 
 
