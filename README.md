@@ -37,7 +37,3 @@ composer install
    ```bash
    php spark serve
 
-Penjelasan:
-- **Login Information**: Dibiarkan dalam format tabel karena tabel memberikan tampilan yang bersih dan terstruktur untuk informasi login.
-- **Prerequisites**: Menggunakan daftar bullet untuk mencantumkan persyaratan sistem.
-- **Steps to Run**: Menggunakan penomoran untuk langkah-langkah yang harus diikuti agar lebih mudah diikuti oleh pengguna.
